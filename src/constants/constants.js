@@ -1,0 +1,55 @@
+export const projects = [
+  {
+    title: 'React Portfolio',
+    description: "Using React, Javascript, and CSS including styled-components to build a personal portfolio.",
+      image: '/images/portfolio.png',
+      tags: ['React.JS', 'Javascript', 'Styled-Components'],
+    source: 'https://google.com',
+    visit: 'https://google.com',
+    id: 0,
+  },
+  {
+    title: 'Viseul Group',
+    description:"A wordpress-driven website for a customer, still under development.",
+    image: '/images/www.visuelgroup.se_.png',
+    tags: ['Javascript', 'PHP', 'Wordpress'],
+    source: 'https://www.visuelgroup.se/',
+    visit: 'https://www.visuelgroup.se/',
+    id: 1,
+  },
+  {
+    title: 'Räddningstjänsten Jämntland',
+    description: "Participated in the development of the new WCAG accessible website for the Fire Department in Jämtland during my internship.",
+      image: '/images/www.rtjamtland.se.png',
+      tags: ['Wordpress', 'WCAG', 'Javascript', 'PHP'],
+    source: 'https://google.com',
+    visit: 'https://www.rtjamtland.se/',
+    id: 2,
+  },
+  {
+    title: 'Restaurant Rating',
+    description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
+    image: '/images/4.jpg',
+    tags: ['React', 'ChatEngine', 'Firebase'],
+    source: 'https://google.com',
+    visit: 'https://google.com',
+    id: 3,
+  },
+  {
+    title: 'Restaurant Rating',
+    description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
+    image: '/images/4.jpg',
+    tags: ['React', 'ChatEngine', 'Firebase'],
+    source: 'https://google.com',
+    visit: 'https://google.com',
+    id: 3,
+  },
+];
+
+export const TimeLineData = [
+  { year: 2017, text: 'Started my journey', },
+  { year: 2018, text: 'Worked as a freelance developer', },
+  { year: 2019, text: 'Founded JavaScript Mastery', },
+  { year: 2020, text: 'Shared my projects with the world', },
+  { year: 2021, text: 'Started my own platform', },
+];
