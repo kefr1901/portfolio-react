@@ -5,7 +5,7 @@ export const projects = [
       image: '/images/portfolio.png',
       tags: ['React.JS', 'Javascript', 'Styled-Components'],
     source: 'https://github.com/kefr1901/portfolio-react',
-    visit: '',
+    visit: 'https://kevinfridman.vercel.app/',
     id: 0,
   },
   {
@@ -23,7 +23,7 @@ export const projects = [
     image: '/images/weather.png',
     tags: ['React', 'Javascript', 'API', 'Axios'],
     source: 'https://github.com/kefr1901/react-api-weather-app',
-    visit: '',
+    visit: 'https://react-api-weather-app.vercel.app/',
     id: 3,
   },
   {
@@ -41,7 +41,7 @@ export const projects = [
     image: '',
     tags: ['React', 'ChatEngine', 'Firebase'],
     source: 'https://github.com/kefr1901/restaurantsrating',
-    visit: 'https://github.com/kefr1901/restaurantsrating',
+    visit: '',
     id: 3,
   },
 ];
