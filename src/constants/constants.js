@@ -37,9 +37,9 @@ export const projects = [
   },
   {
     title: 'Restaurant Rating',
-    description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
+    description: "",
     image: '',
-    tags: ['React', 'ChatEngine', 'Firebase'],
+    tags: ['ExpressJS', 'MysQL', 'Javascript', 'Bootstrap'],
     source: 'https://github.com/kefr1901/restaurantsrating',
     visit: '',
     id: 3,
