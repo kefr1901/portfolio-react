@@ -5,6 +5,7 @@ export const Img = styled.img`
   height:100%;
   object-fit: cover;
   overflow: hidden;
+  padding: 10px;
 `
 
 export const GridContainer = styled.section`
@@ -23,8 +24,8 @@ row-gap: 3rem;
 
 `
 export const BlogCard = styled.div`
-  border-radius: 30px;
-  box-shadow: 3px 3px 20px rgba(80, 78, 78, 0.5);
+  border-radius: 10px 10px;
+  box-shadow: 2px 2px 10px rgba(80, 78, 78, 0.5);
   text-align: center;
   width: 400px;
   @media ${(props) => props.theme.breakpoints.sm} {
@@ -40,8 +41,7 @@ export const TitleContent = styled.div`
 
 
 export const HeaderThree = styled.h3`
-  font-weight: 500;
-  letter-spacing: 2px;
+  font-weight: 400;
   color: #fc7742;
   padding: .5rem 0;
   font-size: ${(props) => props.title ? '3rem' : '2rem'};
@@ -68,10 +68,10 @@ export const Intro = styled.div`
 
 export const CardInfo = styled.p`
   width: 100%;
-  padding: 0 50px;
+  padding: 0 20px;
   color: #e4e6e7;
   font-style: 2rem;
-  line-height: 24px;
+  line-height: 20px;
   text-align: justify;
   @media ${(props) => props.theme.breakpoints.sm} {
     padding:.3rem
