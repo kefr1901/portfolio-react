@@ -37,7 +37,7 @@ export const projects = [
   },
   {
     title: 'Restaurant Rating',
-    description: "",
+    description: "In progress...",
     image: '',
     tags: ['ExpressJS', 'MysQL', 'Javascript', 'Bootstrap'],
     source: 'https://github.com/kefr1901/restaurantsrating',
