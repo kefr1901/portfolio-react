@@ -35,13 +35,4 @@ export const projects = [
     visit: 'https://www.rtjamtland.se/',
     id: 2,
   },
-  {
-    title: 'Restaurant Rating',
-    description: "In progress...",
-    image: '',
-    tags: ['ExpressJS', 'MysQL', 'Javascript', 'Bootstrap'],
-    source: 'https://github.com/kefr1901/restaurantsrating',
-    visit: '',
-    id: 3,
-  },
 ];
