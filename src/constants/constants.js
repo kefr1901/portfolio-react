@@ -6,7 +6,7 @@ export const projects = [
       tags: ['React.JS', 'Javascript', 'Styled-Components'],
     source: 'https://github.com/kefr1901/portfolio-react',
     visit: 'https://kevinfridman.vercel.app/',
-    id: 0,
+    id: 2,
   },
   {
     title: 'Viseul Group',
@@ -24,7 +24,7 @@ export const projects = [
     tags: ['React', 'Javascript', 'API', 'Axios'],
     source: 'https://github.com/kefr1901/react-api-weather-app',
     visit: 'https://react-api-weather-app.vercel.app/',
-    id: 2,
+    id: 4,
   },
   {
     title: 'Räddningstjänsten Jämntland',
@@ -42,6 +42,6 @@ export const projects = [
       tags: ['Wordpress', 'Responsive', 'Javascript', 'PHP', 'CSS'],
     source: '',
     visit: '',
-    id: 4,
+    id: 0,
   },
 ];
