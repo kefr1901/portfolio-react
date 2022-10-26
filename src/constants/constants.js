@@ -44,4 +44,4 @@ export const projects = [
     visit: '',
     id: 0,
   },
-];
+]
