@@ -18,7 +18,7 @@ const Technologies = () =>  (
          <ListTitle>Front-end</ListTitle>
          <ListParagraph>
            Experience with <br />
-           Javascript, ReactJS, CSS, SCSS, Bootstrap. 
+           Javascript, ReactJS, CSS, SCSS, Bootstrap, Tailwind, Styled-components. 
            <br />
            <DiJavascript1 size="2em"/>
            <DiHtml5 size="2em"/>
