@@ -11,7 +11,7 @@ const Hero = () => (
         Hello there, i'm <br />
         Kevin Fridman.
         <SectionText>
-         A fullstack Developer seeking new challenges.
+         A fullstack Developer.
         </SectionText>
       {/* <Button onClick={() => window.location = 'https://google.se'}>Contact me</Button>*/} 
       </SectionTitle>
