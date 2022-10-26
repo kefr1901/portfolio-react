@@ -33,7 +33,7 @@ const Projects = () => (
             <ExternalLinks href={project.source}>Github/Code</ExternalLinks>
           </UtilityList>
        </BlogCard>
-      ))};
+      ))}
     </GridContainer>
   </Section>
 );
