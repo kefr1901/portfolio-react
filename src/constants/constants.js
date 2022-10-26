@@ -38,7 +38,7 @@ export const projects = [
   {
     title: 'Honung från Rosenhill',
     description: "A responsive and information-based website for a client who manages and sells organic honey.",
-      image: '/images/honungsbild.png',
+      image: '/images/honungbild.png',
       tags: ['Wordpress', 'Responsive', 'Javascript', 'PHP', 'CSS'],
     source: '',
     visit: '',
